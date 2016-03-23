@@ -1,5 +1,5 @@
 
-#Xcode Template
+#Xcode Template inspired by <a href="https://github.com/Nikita2k/SwiftViper">Nikita2k</a>
 
 ## Features
 
